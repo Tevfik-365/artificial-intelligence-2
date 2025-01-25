@@ -1,1 +1,1 @@
-This artificial intelligence was created in Colab. This code is able to recognise animals thanks to the teachable machine.
+This artificial intelligence was created in Colab. This code can perform classification thanks to the teachable machine.
